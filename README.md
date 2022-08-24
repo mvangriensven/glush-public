@@ -15,7 +15,7 @@ As of right now, Glush is only supported on Windows, but will soon be available 
   - Please ensure to change the %user% in the given path to the name of your current user account
 - Right-click on your created shortcut and open 'Properties'
 - In the target path, after the " " containing the path of the .exe file, add the following parameters:
-  - --apikey=<your-accounts-apikey>
+  - --apikey=your-accounts-apikey
   - --devicename=My Device
   
 - Once complete, please make sure to manually launch Glush with the created shortcut for the first time to ensure the parameters have been configured properly and also troubleshoot any potential conflicts with an antivirus.
